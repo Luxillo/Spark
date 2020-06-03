@@ -54,9 +54,7 @@ from pyspark.sql import SparkSession
 spark = SparkSession.builder.appName("Test_spark").master("local[*]").getOrCreate()
 ```
 
-Imprimimos los valores de la sesion
-
-  * In code this looks as follows:
+Imprimimos los valores de la sesion de Spark que en codigo solo es invocar a la palabra(variabe) spark
 
 ```scala
 spark
