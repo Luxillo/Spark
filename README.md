@@ -1,6 +1,16 @@
 # Introducción a Spark
 
 [![GitHub license](https://img.shields.io/github/license/awslabs/deequ.svg)](https://github.com/awslabs/deequ/blob/master/LICENSE)
+ {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Luxillo/Spark/blob/master/Colab%20y%20PySpark%20-%20Inicio.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    }
 
 ## Jugando con Colab & Spark (Python)
 
