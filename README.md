@@ -15,10 +15,7 @@ Haremos lo siguiente :
 ## instalar Java
 
 __Java__ 
-
 Podemos instalar y hacer rapidamente que nuestro entorno de ejecucion implemente Java
-
-__Maven__
 
 ```shell
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
@@ -29,7 +26,6 @@ os.system("tar -xzvf spark-2.4.5-bin-hadoop2.7.tgz")
 ```
 
 __Pyspark__
-
 Ahora instalamos Pyspark
 
 ```
@@ -38,7 +34,6 @@ Ahora instalamos Pyspark
 ```
 
 ## Configuramos las Variables
-
 __JAVA_HOME__  define la ubicación de instalación de java y permite instanciarlo desde cualquier lugar en el sistema.
 
 __SPARK_HOME__  define la ubicación de la instalación de Spark y permite instanciarlo desde cualquier lugar del sistema.
